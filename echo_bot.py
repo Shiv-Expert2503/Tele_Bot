@@ -15,10 +15,10 @@ logging.basicConfig(
 # Initialising Everything
 
 logger=logging.getLogger(__name__)
-os.environ['GOOGLE_APPLICATION_CREDENTIALS']=r'C:\Users\DELL\OneDrive\Desktop\ML\Telegram_bot\New folder\news-bot-apqs-683b807f6491.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS']=r'dialogflow_credentials'
 
 
-Token='6257361866:AAFdoTPD_NK3WdTpM1PPqow3zZEP8R_dgW0'
+Token='telegram_token'
 
 all_topics=[['World', 'Nation', 'Entertainment'], ['Sports', 'Science', 'Health'],['Business', 'Technology']]
 
@@ -31,7 +31,7 @@ all_locations=['Australia', 'Botswana', 'Canada ', 'Ethiopia', 'Ghana', 'India '
 li=[]
 
 df_session_client=df.SessionsClient()
-project_id='news-bot-apqs'
+project_id='your_dialogflow project id'
 
 #generating data using dialogflow
 def detect_intent_from_text(text,session_id,language_code='en'):
