@@ -1,0 +1,139 @@
+PS C:\Users\DELL\OneDrive\Desktop\ML> python -u "c:\Users\DELL\OneDrive\Desktop\ML\Telegram_bot\echo_bot.py"
+2023-04-11 23:10:11,139 - telegram.ext._application - INFO - Application started
+Yo
+Can you say that again?
+Hi
+Hello! How can I help you?
+Shivansh bot
+Yes a kind of🙂
+Yash
+Shivesh
+Hi
+Hi! How are you doing?
+😊
+Say that one more time?
+👍
+Say that one more time?
+👍
+I didn't get that. Can you repeat?
+😘
+Say that one more time?
+Show me news of ipl in English
+{'test_cases': 'Top Stories', 'geo-city': '', 'language': ['English'], 'geo-state': '', 'geo-country': 'india'}
+😍
+Can you say that again?
+Help
+I can but my father has restricted me to just sent you news as I'm in my beginning phase😊
+Aniket
+What
+Sorry, I didn't get that. Can you rephrase?
+No
+Okay👍
+Help
+I can but my father has restricted me to just sent you news as I'm in my beginning phase😊
+Same answer
+Sorry but I'm programmed to keep you updated. Answering your question is none of my job🙂. Actually Shivansh is constantly working on me to answer all your queries 🤗
+What is your use
+Can you say that again?
+Good luck
+One more time?
+< ここにいない >
+How to increase corona
+I missed that, say that again?
+How to blast my college
+One more time?
+How to start world war
+{'geo-country': 'india', 'test_cases': ['World'], 'geo-state': '', 'geo-city': '', 'language': 'english'}
+Sup
+What was that?
+What's up
+Not a whole lot. What's going on with you?
+Sup
+Sorry, I didn't get that. Can you rephrase?
+Pubg
+I didn't get that. Can you say it again?
+What are you
+I'm the first-ever project to get published on Telegram by Shivansh🫶
+What do you get
+Sorry, what was that?
+I don't know
+Okay👍
+How much do you know
+LOL don't say this to Shivansh🤪
+?
+Say that one more time?
+?
+Can you say that again?
+Nope
+Okay👍
+Whats your spurce code
+Sorry, what was that?
+Whats your source code
+Say that one more time?
+Source code?
+I missed what you said. What was that?
+Tell me about india
+{'language': 'english', 'test_cases': ['Top Stories'], 'geo-city': '', 'geo-country': 'india', 'geo-state': ''}
+?
+I didn't get that. Can you repeat?
+Tell me about india
+{'geo-city': '', 'test_cases': ['Top Stories'], 'geo-state': '', 'geo-country': 'india', 'language': 'english'}
+[['World', 'Nation', 'Entertainment'], ['Sports', 'Science', 'Health'], ['Business', 'Technology']]
+Sports
+{'geo-state': '', 'geo-city': '', 'test_cases': ['Sports'], 'language': 'english', 'geo-country': 'india'}
+Shivansh ke kitni gf,
+I missed that, say that again?
+Shivansh girlfriend
+Sorry, could you say that again?
+News about ipl
+Say that one more time?
+Shivansh getting married?
+Never ever🙂I'm an AI
+How to stop
+Done! 💯
+What?
+I missed that, say that again?
+Shivansh has 5 girlfriends
+I missed what you said. What was that?
+Shivansh naughty boy
+Can you say that again?
+What is your use
+Sorry, what was that?
+I can do anything 😎
+I missed that, say that again?
+You just know 2 dialogues
+Say that one more time?
+Bsdk ek hi line bole ja rha h🤬🤬
+Hello! How can I help you?
+🤬
+I didn't get that. Can you say it again?
+< ここにいない >
+[['World', 'Nation', 'Entertainment'], ['Sports', 'Science', 'Health'], ['Business', 'Technology']]
+Sports
+{'language': 'english', 'geo-city': '', 'geo-state': '', 'test_cases': ['Sports'], 'geo-country': 'india'}
+Show me news of ipl
+{'geo-state': '', 'geo-city': '', 'test_cases': 'Top Stories', 'language': 'english', 'geo-country': 'india'}
+Shoe me news of ipl
+Can you say that again?
+Shoe me news of ipl
+Sorry, what was that?
+Show me news of ipl
+{'language': 'english', 'geo-state': '', 'test_cases': 'Top Stories', 'geo-city': '', 'geo-country': 'india'}
+Show me news of ipl in hindi
+{'geo-country': 'india', 'language': ['Hindi'], 'geo-state': '', 'test_cases': 'Top Stories', 'geo-city': ''}
+Show me sports news from india in hindi
+{'test_cases': ['Sports'], 'language': ['Hindi'], 'geo-city': '', 'geo-state': '', 'geo-country': ['India']}
+Show me ipl news from india in hindi
+{'geo-city': '', 'test_cases': 'Top Stories', 'language': ['Hindi'], 'geo-state': '', 'geo-country': ['India']}
+Aafaque
+Show me some sports news from Uzbekistan
+{'geo-country': 'india', 'language': ['Uzbekistan'], 'geo-city': '', 'test_cases': ['Sports'], 'geo-state': ''}
+Show me some recent news of Palestine
+{'geo-state': '', 'language': 'english', 'geo-country': ['Palestine'], 'test_cases': 'Top Stories', 'geo-city': ''}
+Vardaan
+Show me aloo pics
+{'geo-city': '', 'geo-country': 'india', 'language': 'english', 'test_cases': 'Top Stories', 'geo-state': ''}
+Vikeey
+Show me some news about Palestine
+{'test_cases': 'Top Stories', 'geo-state': '', 'language': 'english', 'geo-country': ['Palestine'], 'geo-city': ''}
+Shop 
